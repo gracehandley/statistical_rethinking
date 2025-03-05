@@ -6,3 +6,5 @@
 
 ways <- c(0, 3, 8, 9, 0)
 ways/sum(ways)
+
+dbinom(6, size = 9, prob = 0.5)
