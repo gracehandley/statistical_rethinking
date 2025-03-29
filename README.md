@@ -17,7 +17,7 @@ For additional reference, see the official practice problem solutions: [PDF](htt
 To explore the exercises, clone this repository and navigate to the `chapters` folder:
 
 ```bash
-git clone https://github.com/your-username/statistical_rethinking.git
+git clone https://github.com/gracehandley/statistical_rethinking.git
 cd statistical_rethinking/chapters
 ```
 
